@@ -12,3 +12,6 @@ We created netfdlix landing Page using HTML, CSS ...
  
  
  ### All the images belongs to the respective owners and are used only for educational purposes !!!
+ 
+ 
+ ![](images/capture1.png)
