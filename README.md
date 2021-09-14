@@ -1,6 +1,6 @@
 # Netflix-Landing-Page-clone
 
-We created netfdlix landing Page using HTML, CSS ...
+We created netflix landing Page using HTML, CSS ...
 
 ## Images Credits
 
